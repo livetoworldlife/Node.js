@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "norris-jokes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node norris-jokes1"
+  },
+  "keywords": [],
+  "author": "Ersin",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "node-fetch": "^2.6.0"
+  }
+}
